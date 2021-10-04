@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Akmal
 - 👀 I’m interested in network security
 - 🌱 I’m currently learning accounting but at the same time im learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any other project that related with network
 - 📫 You can reach me through telegram
 
 <p align="left">
